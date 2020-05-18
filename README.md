@@ -1,1 +1,5 @@
-# nh-n-di-n-l-b-i
+# card identification
+ 
+ idea from  : https://www.youtube.com/watch?v=Rgpfk6eYxJA
+ 
+ 
